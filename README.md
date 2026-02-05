@@ -31,7 +31,7 @@ facial attributes such as:
 - Recall
 - Mean Absolute Error (MAE)
 
-##Findings
+## Findings
 - Human participants outperformed AI in age and gender prediction
 - AI showed higher precision in race classification
 - The experiment highlights both strengths and limitations of AI perception

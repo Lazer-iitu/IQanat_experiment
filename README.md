@@ -25,7 +25,7 @@ facial attributes such as:
 - Age predictions were converted into categorical bins
 - Performance comparison was conducted using standard evaluation metrics
 
-##Evaluation Metrics
+## Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
